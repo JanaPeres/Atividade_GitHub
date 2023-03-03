@@ -1,0 +1,8 @@
+1 - Inserindo um projeto novo no gitHub.
+    1.1 - Via VS Code;
+        1.1.1 - Config. o usuario e email do git:
+        git config --global user.name "seu nome"
+        git config --global user.email "seu email"
+
+    - Na aba Codigo Fonte do VSCode, xiste o botão "Publicr no GitHub", que 
+      abre uma janela para inserir o nome do repositorio e a descrição do projeto.
